@@ -1,0 +1,16 @@
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.exe
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.deps.json
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.runtimeconfig.json
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.runtimeconfig.dev.json
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.dll
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\ref\Lab1Sharp.dll
+C:\Users\danya\RiderProjects\Lab1Sharp\bin\Debug\net5.0\Lab1Sharp.pdb
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.csproj.AssemblyReference.cache
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.AssemblyInfoInputs.cache
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.AssemblyInfo.cs
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.dll
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\ref\Lab1Sharp.dll
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.pdb
+C:\Users\danya\RiderProjects\Lab1Sharp\obj\Debug\net5.0\Lab1Sharp.genruntimeconfig.cache
